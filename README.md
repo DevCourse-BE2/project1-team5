@@ -1,6 +1,10 @@
 # DevCourse-BE2 Project1 Team5
 프로그래머스 데브코스 Team5의 프로젝트1 레포지토리입니다.
 
+
+
+
+
 ### 📋 Commit Message Convention 📋
 | Tag | Description |
 | :---: | --- |
